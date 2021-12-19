@@ -12,7 +12,9 @@ function makeInsult(length) {
     }
 
     const sentence = [   
-        
+ 
+    /*    
+    
 "My mom called me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " yesterday... I don't know if thats a good thing",
 
 "I dropped a pan of spaghetti and now my coworkers wont stop calling me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
@@ -80,7 +82,7 @@ function makeInsult(length) {
 "The model after the Samsung S21 will definitly be called Samsung S-"  + insultArray[randomNum].bold() + "-" + insultArray[randomNum2].bold(),
 
 "And on the 8th day God said '"  + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + "', but nobody really knew what he ment with that.",
-        
+   
 "Did you know Canada's motto actually translates to "  + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
         
 "You're such a "  + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
@@ -88,6 +90,8 @@ function makeInsult(length) {
 "You have Batman, Spiderman, Superman... so I came up with "  + insultArray[randomNum].bold() + "-" + insultArray[randomNum2].bold() + "-man, and now I am barred from entering their studio.",
 
 "What the fuck did you just say to me, you little " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+*/
 
 "We called him " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " for about a week until he started crying",
 
