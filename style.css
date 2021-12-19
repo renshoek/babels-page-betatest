@@ -1,0 +1,81 @@
+body {
+    background-color: #364958;
+    
+    color: white;
+    
+    font-family: sans-serif;
+    
+    margin-left: 50px;
+    
+    overflow-x: hidden;
+
+    -ms-word-break: break-all;
+    word-break: break-all;
+
+    /* Non standard for webkit */
+    word-break: break-word;
+
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+a{
+    margin-right: 20px;
+    
+    font-weight: bold;
+    
+    color: white;
+}
+
+.float{
+    
+    float: left;
+}
+
+button{
+    background-color: #4C061D;
+    color: white;
+    
+    font-weight: bold;
+    font-size: 1.1em;
+    
+    width: 400px;
+    
+}
+
+.intro {
+    margin-top: 50px;
+}
+
+.action {
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+.pageswitch {
+    margin-top: 50px;
+    
+}
+
+.page {
+    color: #364958;
+    
+    background-color: #FCF5ED;
+    
+    border: 2px solid grey;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    min-width: 439px;
+    max-width: 676px;
+}
+
+#babel {
+    text-align: justify;
+}
